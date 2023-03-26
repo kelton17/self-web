@@ -1,0 +1,65 @@
+
+
+body {
+    text-align:center;
+    background: linear-gradient(skyblue, red);
+     margin: 0px;
+    height: 100%;
+    width: 100%;
+    color: black;
+  }
+  .c-site-header {
+    text-align: cente;
+    background:red; 
+  }
+  h2{
+    font-size:30px;
+  }
+  ul{ 
+  font-size:20px}
+  
+   p{
+      font-size:15px;
+     line-height:20px;}
+  
+  
+   img{
+      width:200px;
+      height:200px;
+      margin:10px;
+      float:center;
+      border-radius: 40%;
+      border: 7px solid red;
+    }
+  
+  
+  
+  a {
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px;
+    transition: .3s background;
+    color:black;
+    font-weight: bold;
+  }
+  
+  
+  .c-site-footer{
+    background:skyblue;
+    margin:50px 0px;
+  }
+  
+  
+  }
+  #video{
+    margin-top 100px
+  }
+  
+  main{
+    border-style:solid;
+    background:;
+    margin:100px 0px;
+    padding:0px;
+  
+  
